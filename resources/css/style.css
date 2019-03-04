@@ -1,3 +1,22 @@
 @charset "utf-8";
 /* CSS Document */
 
+/* ------------- Universal Styling ------------ */
+
+html {
+  font-size: 18px;
+  line-height: 1.4rem;
+  font-family: Helvetica, Verdana, sans-serif;
+}
+
+nav.mobile {
+  display: none;
+}
+
+/* ------------- Header & Navigation Styling ------------ */
+
+/* ------------- Main Content Styling ------------ */
+
+/* ------------- Footer Styling ------------ */
+
+/* ------------- Media Queries ------------ */
